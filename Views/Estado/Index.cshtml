@@ -1,0 +1,42 @@
+﻿@model IEnumerable<atv1.Models.Estado>
+
+
+
+@{
+    ViewData["Title"] = "Estados";
+}
+
+<div class="container mt-5">
+    <h2 class="text-center mb-4">Cadastro de Estados</h2>
+
+    <div class="text-end mb-3">
+        <a asp-action="Create" asp-controller="Estado" class="btn btn-info">Novo Estado</a>
+    </div>
+
+    <table class="table table-bordered table-striped">
+        <thead class="table-dark">
+            <tr>
+                <th>ID</th>
+                <th>Nome</th>
+                <th>Sigla</th>
+                <th>Ações</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.Id</td>
+                    <td>@item.Nome</td>
+                    <td>@item.Sigla</td>
+                    <td>
+                        <a asp-action="Edit" asp-controller="Estado" asp-route-id="@item.Id" class="btn btn-sm btn-warning">Editar</a>
+                        <a asp-action="Details" asp-controller="Estado" asp-route-id="@item.Id" class="btn btn-sm btn-secondary">Detalhes</a>
+                        <a asp-action="Delete" asp-controller="Estado" asp-route-id="@item.Id" class="btn btn-sm btn-danger">Excluir</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+

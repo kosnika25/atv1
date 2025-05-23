@@ -3,36 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\Aluno\\source\\repos\\atv1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8CEC0040-65B4-4254-8919-F6E4BF6CC15E}|atv1.csproj|c:\\users\\aluno\\source\\repos\\atv1\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8CEC0040-65B4-4254-8919-F6E4BF6CC15E}|atv1.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Aluno\\source\\repos\\atv1\\Controllers\\ClienteController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\ClienteController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8CEC0040-65B4-4254-8919-F6E4BF6CC15E}|atv1.csproj|c:\\users\\aluno\\source\\repos\\atv1\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8CEC0040-65B4-4254-8919-F6E4BF6CC15E}|atv1.csproj|solutionrelative:controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8CEC0040-65B4-4254-8919-F6E4BF6CC15E}|atv1.csproj|c:\\users\\aluno\\source\\repos\\atv1\\controllers\\estadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CEC0040-65B4-4254-8919-F6E4BF6CC15E}|atv1.csproj|solutionrelative:controllers\\estadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8CEC0040-65B4-4254-8919-F6E4BF6CC15E}|atv1.csproj|c:\\users\\aluno\\source\\repos\\atv1\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8CEC0040-65B4-4254-8919-F6E4BF6CC15E}|atv1.csproj|solutionrelative:models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8CEC0040-65B4-4254-8919-F6E4BF6CC15E}|atv1.csproj|c:\\users\\aluno\\source\\repos\\atv1\\models\\cidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8CEC0040-65B4-4254-8919-F6E4BF6CC15E}|atv1.csproj|solutionrelative:models\\cidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8CEC0040-65B4-4254-8919-F6E4BF6CC15E}|atv1.csproj|c:\\users\\aluno\\source\\repos\\atv1\\controllers\\cidadecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CEC0040-65B4-4254-8919-F6E4BF6CC15E}|atv1.csproj|solutionrelative:controllers\\cidadecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8CEC0040-65B4-4254-8919-F6E4BF6CC15E}|atv1.csproj|c:\\users\\aluno\\source\\repos\\atv1\\models\\estado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8CEC0040-65B4-4254-8919-F6E4BF6CC15E}|atv1.csproj|solutionrelative:models\\estado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8CEC0040-65B4-4254-8919-F6E4BF6CC15E}|atv1.csproj|c:\\users\\aluno\\source\\repos\\atv1\\views\\clientes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8CEC0040-65B4-4254-8919-F6E4BF6CC15E}|atv1.csproj|solutionrelative:views\\clientes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{8CEC0040-65B4-4254-8919-F6E4BF6CC15E}|atv1.csproj|c:\\users\\aluno\\source\\repos\\atv1\\models\\cidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CEC0040-65B4-4254-8919-F6E4BF6CC15E}|atv1.csproj|solutionrelative:models\\cidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8CEC0040-65B4-4254-8919-F6E4BF6CC15E}|atv1.csproj|c:\\users\\aluno\\source\\repos\\atv1\\controllers\\cidadecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8CEC0040-65B4-4254-8919-F6E4BF6CC15E}|atv1.csproj|solutionrelative:controllers\\cidadecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8CEC0040-65B4-4254-8919-F6E4BF6CC15E}|atv1.csproj|c:\\users\\aluno\\source\\repos\\atv1\\views\\cidade\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8CEC0040-65B4-4254-8919-F6E4BF6CC15E}|atv1.csproj|solutionrelative:views\\cidade\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Aluno\\source\\repos\\atv1\\Migrations\\20250523181206_Inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250523181206_Inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8CEC0040-65B4-4254-8919-F6E4BF6CC15E}|atv1.csproj|c:\\users\\aluno\\source\\repos\\atv1\\views\\estado\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8CEC0040-65B4-4254-8919-F6E4BF6CC15E}|atv1.csproj|solutionrelative:views\\estado\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CEC0040-65B4-4254-8919-F6E4BF6CC15E}|atv1.csproj|c:\\users\\aluno\\source\\repos\\atv1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8CEC0040-65B4-4254-8919-F6E4BF6CC15E}|atv1.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CEC0040-65B4-4254-8919-F6E4BF6CC15E}|atv1.csproj|c:\\users\\aluno\\source\\repos\\atv1\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CEC0040-65B4-4254-8919-F6E4BF6CC15E}|atv1.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8CEC0040-65B4-4254-8919-F6E4BF6CC15E}|atv1.csproj|c:\\users\\aluno\\source\\repos\\atv1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -45,6 +53,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{8CEC0040-65B4-4254-8919-F6E4BF6CC15E}|atv1.csproj|c:\\users\\aluno\\source\\repos\\atv1\\atv1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{8CEC0040-65B4-4254-8919-F6E4BF6CC15E}|atv1.csproj|solutionrelative:atv1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CEC0040-65B4-4254-8919-F6E4BF6CC15E}|atv1.csproj|c:\\users\\aluno\\source\\repos\\atv1\\migrations\\20250523181206_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CEC0040-65B4-4254-8919-F6E4BF6CC15E}|atv1.csproj|solutionrelative:migrations\\20250523181206_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Aluno\\source\\repos\\atv1\\Views\\Clientes\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\Clientes\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,76 +70,36 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 14,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Aluno\\source\\repos\\atv1\\Views\\Clientes\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Clientes\\Index.cshtml",
               "ToolTip": "C:\\Users\\Aluno\\source\\repos\\atv1\\Views\\Clientes\\Index.cshtml",
               "RelativeToolTip": "Views\\Clientes\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAIwC0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-23T18:28:50.524Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-23T18:28:50.524Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ClientesController.cs",
-              "DocumentMoniker": "C:\\Users\\Aluno\\source\\repos\\atv1\\Controllers\\ClientesController.cs",
-              "RelativeDocumentMoniker": "Controllers\\ClientesController.cs",
-              "ToolTip": "C:\\Users\\Aluno\\source\\repos\\atv1\\Controllers\\ClientesController.cs",
-              "RelativeToolTip": "Controllers\\ClientesController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA3AAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "ClienteController.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\source\\repos\\atv1\\Controllers\\ClienteController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ClienteController.cs",
+              "ToolTip": "C:\\Users\\Aluno\\source\\repos\\atv1\\Controllers\\ClienteController.cs",
+              "RelativeToolTip": "Controllers\\ClienteController.cs",
+              "ViewState": "AgIAAI0AAAAAAAAAAAAIwJ0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-23T18:15:17.949Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Aluno\\source\\repos\\atv1\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Aluno\\source\\repos\\atv1\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-23T18:06:08.739Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Aluno\\source\\repos\\atv1\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\Aluno\\source\\repos\\atv1\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-23T17:57:24.651Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "atv1",
-              "DocumentMoniker": "C:\\Users\\Aluno\\source\\repos\\atv1\\atv1.csproj",
-              "RelativeDocumentMoniker": "atv1.csproj",
-              "ToolTip": "C:\\Users\\Aluno\\source\\repos\\atv1\\atv1.csproj",
-              "RelativeToolTip": "atv1.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-23T17:56:38.59Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Cidade.cs",
               "DocumentMoniker": "C:\\Users\\Aluno\\source\\repos\\atv1\\Models\\Cidade.cs",
               "RelativeDocumentMoniker": "Models\\Cidade.cs",
@@ -131,8 +107,31 @@
               "RelativeToolTip": "Models\\Cidade.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-23T17:48:27.194Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-23T17:48:27.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CidadeController.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\source\\repos\\atv1\\Controllers\\CidadeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CidadeController.cs",
+              "ToolTip": "C:\\Users\\Aluno\\source\\repos\\atv1\\Controllers\\CidadeController.cs",
+              "RelativeToolTip": "Controllers\\CidadeController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwDIAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T18:14:13.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Aluno\\source\\repos\\atv1\\Views\\Estado\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Estado\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Aluno\\source\\repos\\atv1\\Views\\Estado\\Index.cshtml",
+              "RelativeToolTip": "Views\\Estado\\Index.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-23T18:47:23.534Z"
             },
             {
               "$type": "Document",
@@ -144,21 +143,7 @@
               "RelativeToolTip": "Models\\Estado.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-23T17:48:08.235Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CidadeController.cs",
-              "DocumentMoniker": "C:\\Users\\Aluno\\source\\repos\\atv1\\Controllers\\CidadeController.cs",
-              "RelativeDocumentMoniker": "Controllers\\CidadeController.cs",
-              "ToolTip": "C:\\Users\\Aluno\\source\\repos\\atv1\\Controllers\\CidadeController.cs",
-              "RelativeToolTip": "Controllers\\CidadeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-23T18:14:13.089Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-23T17:48:08.235Z"
             },
             {
               "$type": "Document",
@@ -170,12 +155,83 @@
               "RelativeToolTip": "Models\\Cliente.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-23T17:47:52.133Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-23T17:47:52.133Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
+              "Title": "EstadoController.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\source\\repos\\atv1\\Controllers\\EstadoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EstadoController.cs",
+              "ToolTip": "C:\\Users\\Aluno\\source\\repos\\atv1\\Controllers\\EstadoController.cs",
+              "RelativeToolTip": "Controllers\\EstadoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T18:45:32.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\source\\repos\\atv1\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Aluno\\source\\repos\\atv1\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T17:57:24.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\source\\repos\\atv1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Aluno\\source\\repos\\atv1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T18:06:08.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Aluno\\source\\repos\\atv1\\Views\\Cidade\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Cidade\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Aluno\\source\\repos\\atv1\\Views\\Cidade\\Index.cshtml",
+              "RelativeToolTip": "Views\\Cidade\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-23T18:48:56.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Aluno\\source\\repos\\atv1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Aluno\\source\\repos\\atv1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAmwBYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-23T18:49:51.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "atv1.csproj",
+              "DocumentMoniker": "C:\\Users\\Aluno\\source\\repos\\atv1\\atv1.csproj",
+              "RelativeDocumentMoniker": "atv1.csproj",
+              "ToolTip": "C:\\Users\\Aluno\\source\\repos\\atv1\\atv1.csproj",
+              "RelativeToolTip": "atv1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-23T17:56:38.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "20250523181206_Inicial.cs",
               "DocumentMoniker": "C:\\Users\\Aluno\\source\\repos\\atv1\\Migrations\\20250523181206_Inicial.cs",
               "RelativeDocumentMoniker": "Migrations\\20250523181206_Inicial.cs",
@@ -183,12 +239,11 @@
               "RelativeToolTip": "Migrations\\20250523181206_Inicial.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-23T18:12:06.354Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-23T18:12:06.354Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Aluno\\source\\repos\\atv1\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -196,8 +251,7 @@
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-23T17:40:50.958Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-23T17:40:50.958Z"
             }
           ]
         }

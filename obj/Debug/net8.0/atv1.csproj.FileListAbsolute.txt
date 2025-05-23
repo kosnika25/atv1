@@ -263,3 +263,4 @@ C:\Users\Aluno\source\repos\atv1\bin\Debug\net8.0\runtimes\win\lib\net7.0\Micros
 C:\Users\Aluno\source\repos\atv1\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
 C:\Users\Aluno\source\repos\atv1\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\Aluno\source\repos\atv1\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Users\Aluno\source\repos\atv1\obj\Debug\net8.0\atv1.sourcelink.json

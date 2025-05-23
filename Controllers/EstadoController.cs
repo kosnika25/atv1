@@ -10,22 +10,22 @@ using atv1.Models;
 
 namespace atv1.Controllers
 {
-    public class ClientesController : Controller
+    public class EstadoController : Controller
     {
         private readonly ApplicationDbContext _context;
 
-        public ClientesController(ApplicationDbContext context)
+        public EstadoController(ApplicationDbContext context)
         {
             _context = context;
         }
 
-        // GET: Clientes
+        // GET: Estadoes
         public async Task<IActionResult> Index()
         {
-            return View(await _context.Clientes.ToListAsync());
+            return View(await _context.Estados.ToListAsync());
         }
 
-        // GET: Clientes/Details/5
+        // GET: Estadoes/Details/5
         public async Task<IActionResult> Details(int? id)
         {
             if (id == null)
@@ -33,39 +33,39 @@ namespace atv1.Controllers
                 return NotFound();
             }
 
-            var cliente = await _context.Clientes
-                .FirstOrDefaultAsync(m => m.Codigo == id);
-            if (cliente == null)
+            var estado = await _context.Estados
+                .FirstOrDefaultAsync(m => m.Id == id);
+            if (estado == null)
             {
                 return NotFound();
             }
 
-            return View(cliente);
+            return View(estado);
         }
 
-        // GET: Clientes/Create
+        // GET: Estadoes/Create
         public IActionResult Create()
         {
             return View();
         }
 
-        // POST: Clientes/Create
+        // POST: Estadoes/Create
         // To protect from overposting attacks, enable the specific properties you want to bind to.
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("Codigo,Nome,Sexo,Idade,DataNascimento")] Cliente cliente)
+        public async Task<IActionResult> Create([Bind("Id,Nome,Sigla")] Estado estado)
         {
             if (ModelState.IsValid)
             {
-                _context.Add(cliente);
+                _context.Add(estado);
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
             }
-            return View(cliente);
+            return View(estado);
         }
 
-        // GET: Clientes/Edit/5
+        // GET: Estadoes/Edit/5
         public async Task<IActionResult> Edit(int? id)
         {
             if (id == null)
@@ -73,22 +73,22 @@ namespace atv1.Controllers
                 return NotFound();
             }
 
-            var cliente = await _context.Clientes.FindAsync(id);
-            if (cliente == null)
+            var estado = await _context.Estados.FindAsync(id);
+            if (estado == null)
             {
                 return NotFound();
             }
-            return View(cliente);
+            return View(estado);
         }
 
-        // POST: Clientes/Edit/5
+        // POST: Estadoes/Edit/5
         // To protect from overposting attacks, enable the specific properties you want to bind to.
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, [Bind("Codigo,Nome,Sexo,Idade,DataNascimento")] Cliente cliente)
+        public async Task<IActionResult> Edit(int id, [Bind("Id,Nome,Sigla")] Estado estado)
         {
-            if (id != cliente.Codigo)
+            if (id != estado.Id)
             {
                 return NotFound();
             }
@@ -97,12 +97,12 @@ namespace atv1.Controllers
             {
                 try
                 {
-                    _context.Update(cliente);
+                    _context.Update(estado);
                     await _context.SaveChangesAsync();
                 }
                 catch (DbUpdateConcurrencyException)
                 {
-                    if (!ClienteExists(cliente.Codigo))
+                    if (!EstadoExists(estado.Id))
                     {
                         return NotFound();
                     }
@@ -113,10 +113,10 @@ namespace atv1.Controllers
                 }
                 return RedirectToAction(nameof(Index));
             }
-            return View(cliente);
+            return View(estado);
         }
 
-        // GET: Clientes/Delete/5
+        // GET: Estadoes/Delete/5
         public async Task<IActionResult> Delete(int? id)
         {
             if (id == null)
@@ -124,34 +124,34 @@ namespace atv1.Controllers
                 return NotFound();
             }
 
-            var cliente = await _context.Clientes
-                .FirstOrDefaultAsync(m => m.Codigo == id);
-            if (cliente == null)
+            var estado = await _context.Estados
+                .FirstOrDefaultAsync(m => m.Id == id);
+            if (estado == null)
             {
                 return NotFound();
             }
 
-            return View(cliente);
+            return View(estado);
         }
 
-        // POST: Clientes/Delete/5
+        // POST: Estadoes/Delete/5
         [HttpPost, ActionName("Delete")]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> DeleteConfirmed(int id)
         {
-            var cliente = await _context.Clientes.FindAsync(id);
-            if (cliente != null)
+            var estado = await _context.Estados.FindAsync(id);
+            if (estado != null)
             {
-                _context.Clientes.Remove(cliente);
+                _context.Estados.Remove(estado);
             }
 
             await _context.SaveChangesAsync();
             return RedirectToAction(nameof(Index));
         }
 
-        private bool ClienteExists(int id)
+        private bool EstadoExists(int id)
         {
-            return _context.Clientes.Any(e => e.Codigo == id);
+            return _context.Estados.Any(e => e.Id == id);
         }
     }
 }
