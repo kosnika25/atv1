@@ -1,0 +1,40 @@
+﻿@model IEnumerable<atv1.Models.Cliente>
+
+@{
+    ViewData["Title"] = "Clientes";
+}
+
+<div class="container mt-5">
+    <h2 class="text-center mb-4">Cadastro de Clientes</h2>
+
+    <div class="text-end mb-3">
+        <a href="/Clientes/Create" class="btn btn-primary">Novo Cliente</a>
+    </div>
+
+    <table class="table table-bordered table-striped">
+        <thead class="table-dark">
+            <tr>
+                <th>Código</th>
+                <th>Nome</th>
+                <th>Sexo</th>
+                <th>Idade</th>
+                <th>Data de Nascimento</th>
+                <th>Ações</th>
+            </tr>
+        </thead>
+        <tbody>
+            
+            <tr>
+                <td>1</td>
+                <td>Maria Silva</td>
+                <td>F</td>
+                <td>30</td>
+                <td>1995-10-20</td>
+                <td>
+                    <a class="btn btn-sm btn-warning" href="#">Editar</a>
+                    <a class="btn btn-sm btn-danger" href="#">Excluir</a>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</div>
